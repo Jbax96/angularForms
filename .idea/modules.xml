@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/angularForms.iml" filepath="$PROJECT_DIR$/.idea/angularForms.iml" />
+    </modules>
+  </component>
+</project>
